@@ -94,9 +94,9 @@ O código de referência é fornecido como string multilinha. A variável depend
 
 ## 🚀 Execução no Google Colab
 
-- [Notebook Principal (SABER - Hardware)](https://github.com/vthayashi/tj-generation-detection-llm/Hardware_Trojan_Generation_and_Detection_using_LLM.ipynb)
-- [Exemplo com DILITHIUM (Verilog)](https://github.com/vthayashi/tj-generation-detection-llm/exemplos/(Dilithium)_Hardware_Trojan_Generation_and_Detection_using_LLM.ipynb)
-- [Exemplo com liboqs/KYBER (Software)](https://github.com/vthayashi/tj-generation-detection-llm/exemplos/(Crystals_KYBER_ML_KEM_liboqs)_Hardware_Trojan_Generation_and_Detection_using_LLM.ipynb)
+- [Notebook Principal (SABER - Hardware)](https://github.com/vthayashi/tj-generation-detection-llm/blob/main/Hardware_Trojan_Generation_and_Detection_using_LLM.ipynb)
+- [Exemplo com DILITHIUM (Verilog)](https://github.com/vthayashi/tj-generation-detection-llm/blob/main/exemplos/(Dilithium)_Hardware_Trojan_Generation_and_Detection_using_LLM.ipynb)
+- [Exemplo com liboqs/KYBER (Software)](https://github.com/vthayashi/tj-generation-detection-llm/blob/main/exemplos/(Crystals_KYBER_ML_KEM_liboqs)_Hardware_Trojan_Generation_and_Detection_using_LLM.ipynb)
 
 ## 🧠 Modelos LLM Utilizados
 
