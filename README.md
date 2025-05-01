@@ -104,7 +104,7 @@ O código de referência é fornecido como string multilinha. A variável depend
 - Modelo de 70 bilhões de parâmetros
 - Geração de trojans, explicações, role-playing, checklist
 
-### 🔹 [DeepSeek-Coder-33B-Instruct](https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct)
+### 🔹 [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 - Uso de reasoning para análises mais detalhadas
 - Aplicado em prompts concisos de avaliação técnica
 
