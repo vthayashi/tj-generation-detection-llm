@@ -1,5 +1,5 @@
 
-# 🧠 Hardware Trojan Generation and Detection using LLM
+# Hardware Trojan Generation and Detection using LLM
 
 Este repositório apresenta uma abordagem baseada em LLMs (Large Language Models) para **geração e detecção de Hardware Trojans** em projetos de **hardware (Verilog/VHDL)** e **software (C)**. A execução é feita via **Inference API da Hugging Face**, sem necessidade de GPU, diretamente no **Google Colab**.
 
