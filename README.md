@@ -126,3 +126,6 @@ Distribuído sob a [Licença MIT](LICENSE).
 
 Sugestões e melhorias são bem-vindas.  
 Abra uma [issue](https://github.com/vthayashi/tj-generation-detection-llm/issues) ou envie um [pull request](https://github.com/vthayashi/tj-generation-detection-llm/pulls).
+
+---
+*Nota: Este conjunto de dados foi desenvolvido estritamente para fins de pesquisa em segurança de hardware (desenvolvimento de mecanismos de detecção mais resilientes), sendo vetado seu uso para tarefas ilegais.*
